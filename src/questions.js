@@ -185,7 +185,7 @@ export const questions = [
         correctAnswer: false,
       },
       {
-        answerText: "Dating Biola #SAIL",
+        answerText: "Wear A suit",
         correctAnswer: false,
       },
     ],
