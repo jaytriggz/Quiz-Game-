@@ -43,7 +43,7 @@ export const questions = [
     ],
   },
   {
-    questionText: "The American rapper J cole is signed under which record label?",
+    questionText: "Centinnial College Toronto, Ontario, Canada",
     answers: [
       {
         answerText: "Bad Boy Records",
