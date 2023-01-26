@@ -8,7 +8,7 @@ export const questions = [
       },
       {
         answerText: "Burna Boy",
-        correctAnswer: false,
+        correctAnswer: true,
       },
       {
         answerText: "Tems",
