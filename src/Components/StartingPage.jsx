@@ -19,7 +19,7 @@ const StartingPage = ({
 
   return (
     <Card>
-      <h1 className="header">Welcome to Quiz Game!</h1>
+      <h1 className="header">Welcome to Jide's Quiz Game!</h1>
       <h3 className="primary_text">Please enter your username.</h3>
       <input
         type="text"
