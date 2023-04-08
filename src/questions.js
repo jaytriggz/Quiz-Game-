@@ -43,22 +43,22 @@ export const questions = [
     ],
   },
   {
-    questionText: "Centinnial College Toronto, Ontario, Canada",
+    questionText: "The name of my first daugther ",
     answers: [
       {
-        answerText: "Bad Boy Records",
+        answerText: "Michelle",
         correctAnswer: false,
       },
       {
-        answerText: "Roc Nation Records",
+        answerText: "Beyonce",
         correctAnswer: true,
       },
       {
-        answerText: "Mavin Records",
+        answerText: "Tiwatope",
         correctAnswer: false,
       },
       {
-        answerText: "DeathRow Records",
+        answerText: "Rihanna",
         correctAnswer: false,
       },
     ],
@@ -67,7 +67,7 @@ export const questions = [
     questionText: "What is Jide's favourite EPL club?",
     answers: [
       {
-        answerText: "Stoke City FC",
+        answerText: "Chelsea",
         correctAnswer: false,
       },
       {
@@ -110,7 +110,7 @@ export const questions = [
     answers: [
       {
         answerText: "Vanilla Js",
-        correctAnswer: false,
+        correctAnswer: true,
       },
       {
         answerText: "PHP",
@@ -138,7 +138,7 @@ export const questions = [
         correctAnswer: false,
       },
       {
-        answerText: "Sweden",
+        answerText: "Australia",
         correctAnswer: false,
       },
       {
