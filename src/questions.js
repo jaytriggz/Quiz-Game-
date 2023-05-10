@@ -157,7 +157,7 @@ export const questions = [
       },
       {
         answerText: "Black",
-        correctAnswer: true,
+        correctAnswer: false,
       },
       {
         answerText: "Blue",
